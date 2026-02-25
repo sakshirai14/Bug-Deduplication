@@ -1,0 +1,37 @@
+[
+  {
+    "timestamp_utc": "2026-02-12T10:48:42.151854+00:00",
+    "file_name": "issues.csv",
+    "issues_added": 100
+  },
+  {
+    "timestamp_utc": "2026-02-18T11:33:18.257977+00:00",
+    "file_name": "processed_Test.xlsx",
+    "issues_added": 1
+  },
+  {
+    "timestamp_utc": "2026-02-18T18:27:29.834523+00:00",
+    "file_name": "json_api",
+    "issues_added": 1
+  },
+  {
+    "timestamp_utc": "2026-02-18T18:29:34.457039+00:00",
+    "file_name": "json_api",
+    "issues_added": 1
+  },
+  {
+    "timestamp_utc": "2026-02-18T18:31:04.926204+00:00",
+    "file_name": "json_api",
+    "issues_added": 1
+  },
+  {
+    "timestamp_utc": "2026-02-19T05:32:42.717839+00:00",
+    "file_name": "json_api",
+    "issues_added": 1
+  },
+  {
+    "timestamp_utc": "2026-02-19T05:33:14.277264+00:00",
+    "file_name": "json_api",
+    "issues_added": 0
+  }
+]

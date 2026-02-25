@@ -1,0 +1,26 @@
+{
+  "issues": [
+    {
+      "issue_id": "BUG-101",
+      "title": "Login button not working on Safari browser",
+      "repro_steps": "Open Safari 17 → Go to login page → Enter credentials → Click login → Button does not trigger API",
+      "severity": "Critical",
+      "priority": "High",
+      "status": "Open",
+      "reporter": "Sakshi Rai",
+      "created_at": "2026-02-18T10:15:00Z",
+      "component": "Authentication"
+    },
+    {
+      "issue_id": "BUG-102",
+      "title": "API returns 500 error on empty payload",
+      "repro_steps": "Send POST request to /json-store/append with empty body → Observe 500 error",
+      "severity": "Blocker",
+      "priority": "High",
+      "status": "Open",
+      "reporter": "QA Team",
+      "created_at": "2026-02-18T11:20:00Z",
+      "component": "Backend API"
+    }
+  ]
+}
